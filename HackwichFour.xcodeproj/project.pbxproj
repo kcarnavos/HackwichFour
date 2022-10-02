@@ -17,6 +17,7 @@
 		2181D46E28EA390000E72DA7 /* HackwichFourUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2181D46D28EA390000E72DA7 /* HackwichFourUITests.swift */; };
 		2181D47028EA390000E72DA7 /* HackwichFourUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2181D46F28EA390000E72DA7 /* HackwichFourUITestsLaunchTests.swift */; };
 		21A8AA2628EA41A5006C772B /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A8AA2528EA41A5006C772B /* secondViewController.swift */; };
+		21A8AA2C28EA454B006C772B /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A8AA2B28EA454B006C772B /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2181D46D28EA390000E72DA7 /* HackwichFourUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFourUITests.swift; sourceTree = "<group>"; };
 		2181D46F28EA390000E72DA7 /* HackwichFourUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFourUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		21A8AA2528EA41A5006C772B /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		21A8AA2B28EA454B006C772B /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		2181D44028EA38FF00E72DA7 = {
 			isa = PBXGroup;
 			children = (
+				21A8AA2B28EA454B006C772B /* thirdViewController.swift */,
 				21A8AA2528EA41A5006C772B /* secondViewController.swift */,
 				2181D44B28EA38FF00E72DA7 /* HackwichFour */,
 				2181D46228EA390000E72DA7 /* HackwichFourTests */,
@@ -263,6 +266,7 @@
 			files = (
 				21A8AA2628EA41A5006C772B /* secondViewController.swift in Sources */,
 				2181D45128EA38FF00E72DA7 /* ViewController.swift in Sources */,
+				21A8AA2C28EA454B006C772B /* thirdViewController.swift in Sources */,
 				2181D44D28EA38FF00E72DA7 /* AppDelegate.swift in Sources */,
 				2181D44F28EA38FF00E72DA7 /* SceneDelegate.swift in Sources */,
 			);
