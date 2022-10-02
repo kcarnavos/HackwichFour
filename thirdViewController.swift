@@ -16,7 +16,7 @@ class thirdViewController: UIViewController {
   
     
     @IBOutlet weak var labelPressed: UIButton!
-    self.thirdTabLabel.text = "My Favorite Foods"
+    self.thirdTabLabel.text = "My Favorite Food"
     
     override func viewDidLoad() {
         super.viewDidLoad()
